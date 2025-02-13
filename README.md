@@ -41,34 +41,3 @@ And, it is similar for the other positions.
 
 ![Game-draw](https://user-images.githubusercontent.com/79866006/233813454-5bb3e78e-350b-42a8-a97d-40becec90079.png)
 
-
-
-
-<h2>
-INFO
-</h2>
-<footer>
-TIC TAC TOE GAME project in C
-
-<br>
-DEVELOPED BY NEMONET (TYP)
-
-<br><hr>
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO PULL AN ISSUE *****  
-
-<hr>
-***** LEAVE A COMMENT IF YOU LOVE MY WORK *****
-
-<hr>
-***** PLS FORK TNIS PROJECT FOR MORE PROJECT  *****
-
-</footer>
-
-
-
-
-
-
-
-
-
